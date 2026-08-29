@@ -13,8 +13,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-![Nader's GitHub stats](https://github-stats-extended.vercel.app/api?username=nader-abdeltawab&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nader-abdeltawab&layout=compact&theme=radical)
 
 
