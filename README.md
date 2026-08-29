@@ -14,5 +14,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 
-![Nader's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nader Abdeltawab&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nader Abdeltawab&layout=compact&theme=radical)
+![Nader's GitHub stats](https://github-readme-stats.vercel.app/api?username=nader-abdeltawab&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nader-abdeltawab&layout=compact&theme=radical)
