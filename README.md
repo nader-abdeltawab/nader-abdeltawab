@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nader Abdeltawab</h1>
 <h3 align="center">AI/NLP Engineer | Full-Stack Developer | Cloud Enthusiast</h3>
 
-<p align="center">
-🎓 CS Graduate &nbsp;|&nbsp; 📚 Published in Springer LNEE (Arabic NLP) &nbsp;|&nbsp; ☁️ AWS Cloud Technology Consultant
-</p>
-
 ---
 
 ### 🚀 About Me
