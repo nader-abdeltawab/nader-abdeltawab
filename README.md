@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nader Abdeltawab</h1>
-<h3 align="center">AI/NLP Engineer | Full-Stack Developer | Cloud Enthusiast</h3>
+<h3 align="center">AI/NLP Engineer | Full-Stack Developer | Cloud Engineer | DevOps</h3>
 
 ---
 
