@@ -34,7 +34,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nader-abdeltawab&show_icons=true&theme=radical" width="49%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nader-abdeltawab&layout=compact&theme=radical" width="49%" />
 </p>
 
